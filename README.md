@@ -37,6 +37,8 @@ Analyzed customer purchasing behavior using Recency, Frequency, and Monetary (RF
 **Focus:** HR analytics, KPI development, dashboard reporting
 
 Developed a Power BI dashboard to analyze employee attrition and identify patterns across employee-related factors.
+<img width="1231" height="692" alt="hr_attrition_pbi" src="https://github.com/user-attachments/assets/456667e6-42f9-453a-a938-8bde1ed9335a" />
+
 
 ### 3. FLO Customer & Sales Analysis
 
@@ -51,6 +53,9 @@ Analyzed customer and sales data to examine revenue, orders, customer counts, sa
 **Focus:** Data analysis, KPI development, dashboard visualization
 
 Analyzed relationships between depression and factors such as academic/work pressure, satisfaction, financial stress, and working hours. Developed KPIs and visualizations to communicate key findings.
+<img width="1271" height="687" alt="mental_health_pbi" src="https://github.com/user-attachments/assets/07f8d188-cc61-47a8-8d16-94ec09ebcf38" />
+
+
 
 ## Other Projects
 
@@ -64,7 +69,9 @@ SQL exercises and relational database analysis using joins, aggregations, and st
 
 **Miuul Data Analysis Bootcamp**
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fe6da28-86fd-4094-91bc-3736e23229ac" />
 Training in Excel, SQL, Python, Power BI, and data analysis workflows.
+
 
 The Excel datasets are stored externally as it exceeds GitHub's file size limit.
 
