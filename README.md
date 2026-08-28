@@ -72,9 +72,8 @@ SQL exercises and relational database analysis using joins, aggregations, and st
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fe6da28-86fd-4094-91bc-3736e23229ac" />
 Training in Excel, SQL, Python, Power BI, and data analysis workflows.
 
-
+## Excel
 The Excel datasets are stored externally as it exceeds GitHub's file size limit.
-
 Dataset:
 https://drive.google.com/drive/folders/1bnIAONtCpDxhoqLb05HHNDEBf06-hIUA?usp=drive_link
 
